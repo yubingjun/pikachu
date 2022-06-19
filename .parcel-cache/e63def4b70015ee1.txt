@@ -1,0 +1,27 @@
+26
+41C:\Users\49494\Desktop\demo\pikachu\.idea133001198130505039 1
+49C:\Users\49494\Desktop\demo\pikachu\src\test.html133001198130172103 0
+47C:\Users\49494\Desktop\demo\pikachu\src\main.js132996049144831471 0
+46C:\Users\49494\Desktop\demo\pikachu\src\images132999533297533968 1
+40C:\Users\49494\Desktop\demo\pikachu\dist133001198394428728 1
+56C:\Users\49494\Desktop\demo\pikachu\src\images\flash.gif132999526480989004 0
+39C:\Users\49494\Desktop\demo\pikachu\src133001198130182111 1
+50C:\Users\49494\Desktop\demo\pikachu\src\index.html132999572129840988 0
+49C:\Users\49494\Desktop\demo\pikachu\src\style.css132999537341744001 0
+51C:\Users\49494\Desktop\demo\pikachu\dist\index.html132999533616322805 0
+47C:\Users\49494\Desktop\demo\pikachu\src\test.js133001109678698244 0
+59C:\Users\49494\Desktop\demo\pikachu\dist\flash.7e8207e3.gif133001107837274666 0
+59C:\Users\49494\Desktop\demo\pikachu\dist\index.2cdaf7bc.css132999537342613648 0
+63C:\Users\49494\Desktop\demo\pikachu\dist\index.2cdaf7bc.css.map132999537342613648 0
+58C:\Users\49494\Desktop\demo\pikachu\dist\index.de158e3a.js132999529162884827 0
+62C:\Users\49494\Desktop\demo\pikachu\dist\index.de158e3a.js.map132999529162884827 0
+60C:\Users\49494\Desktop\demo\pikachu\dist\pikachu.59712999.js132996049479396472 0
+57C:\Users\49494\Desktop\demo\pikachu\dist\test.c860f2e8.js133001109679882287 0
+64C:\Users\49494\Desktop\demo\pikachu\dist\pikachu.59712999.js.map132996049479416465 0
+53C:\Users\49494\Desktop\demo\pikachu\.idea\modules.xml133001049834181172 0
+61C:\Users\49494\Desktop\demo\pikachu\dist\test.c860f2e8.js.map133001109679887372 0
+50C:\Users\49494\Desktop\demo\pikachu\dist\test.html133001198394418522 0
+52C:\Users\49494\Desktop\demo\pikachu\.idea\codeStyles133001049834273204 1
+53C:\Users\49494\Desktop\demo\pikachu\.idea\pikachu.iml133001049834121254 0
+55C:\Users\49494\Desktop\demo\pikachu\.idea\workspace.xml133001198130505039 0
+72C:\Users\49494\Desktop\demo\pikachu\.idea\codeStyles\codeStyleConfig.xml133001049834261168 0
